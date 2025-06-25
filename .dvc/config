@@ -1,0 +1,6 @@
+[core]
+    remote = origin
+['remote "origin"']
+    url = https://dagshub.com/Willy-Du/mlflow-with-daghub.git
+    user = Willy-Du
+    password = 1d96cd121a922cc028ecda41c2768643aff4e3ef
